@@ -28,7 +28,7 @@ function generateMarkdown(response) {
   
   ## License
   ${response.license}
-  ![Bower](https://img.shields.io/bower/l/inquirer)
+
   
   ## Contributors
   ${'If you would like to contribute to this project, follow these instructions'}

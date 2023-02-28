@@ -5,10 +5,8 @@ The objective is to create a Command Line Application that will generate a readm
 ## Description
 Through a series of prompted questions using the node Inquirer package, the user can input information about their project and receive a formatted readme.md file.
 
-
 ## Demo
-Please follow the link to see it in action
-https://drive.google.com/file/d/1rL82stG7wyRS6r_DZ7ZhhscyqIgcREtX/view
+Please follow the link to see the generator in action
 
 https://watch.screencastify.com/v/6Yv7fvQUT3EfYBhh3PYF
 

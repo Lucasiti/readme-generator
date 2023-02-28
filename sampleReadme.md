@@ -1,10 +1,10 @@
 ![Bower](https://img.shields.io/bower/l/inquirer)
   # Read me generator
   ## Motivation
-  Generates a readme file
+Some text goes here
   
   ## Description
-  Read me generator
+  Some text goes here
   
   ## Table of contents
   * [Technologies used](#technologies-used)
@@ -16,23 +16,22 @@
   * [Questions](#questions)
   
   ## Technologies used
-  Javascript node inquirer
+  Some text goes here
   
   ## Installation
   
   
   ## Usage
-  Fill in all the fields and bobs ur uncle
+  Some text goes here
   
   ## License
   MIT license
-  ![Bower](https://img.shields.io/bower/l/inquirer)
   
   ## Contributors
   If you would like to contribute to this project, follow these instructions
   
   ## Tests
-  None yet
+  Some text goes here
   
   ## Questions
-  At my github account
+ Some text goes here
